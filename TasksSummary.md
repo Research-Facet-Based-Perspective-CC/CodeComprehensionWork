@@ -1,4 +1,4 @@
-## Table 1: This is a test.
+## Table 1: First Test Run
 
 | Code | Code Snippet                       | Task Description | Proposed Facets                 | Detected Problems                     | Improvements      |
 |------|------------------------------------|----------------- |---------------------------------|---------------------------------------|-------------------|
