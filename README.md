@@ -6,6 +6,9 @@ In this paper, we provide a unifying umbrella to describe code comprehension bas
 
 Additionally, we provide a detailed step-by-step guide on how to design good code comprehension tasks. To this end, we explicitly describe relevant design decisions and how they influence each other. We enrich this by quality critiria from psychological test construction and illustrate how they can be evaluated in subsequent studies.
 
-#Explanation of Files
-##FirstRun.xlsx
-This file contains the response data of the first run with 38 participants to evaluate the program comprehension tasks.
+# Explanation of Files
+## FirstRun.csv
+This file contains the response data of the first run with 36 participants to evaluate the program comprehension tasks
+
+## SecondRun.csv
+This file contains the response data of the second run with 9 participants to evaluate the program comprehension tasks
