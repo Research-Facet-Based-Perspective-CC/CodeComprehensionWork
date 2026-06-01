@@ -12,3 +12,6 @@ This file contains the response data of the first run with 36 participants to ev
 
 ## SecondRun.csv
 This file contains the response data of the second run with 9 participants to evaluate the program comprehension tasks
+
+## TasksSummary.md
+This file contains an overview of all tasks of the first and second run, including explanations of how and why it measures a facet, why it did or did not work, and how we improved that in the second run
