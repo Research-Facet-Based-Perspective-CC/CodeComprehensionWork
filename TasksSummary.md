@@ -15,6 +15,11 @@
 |Fr5x2 |See code snippet Fr5x1|Code Evaluation|Critical|Participants have already linked Fr5x2 and Fr5x3 in their answers|Combine Fr5x2 and Fr5x3 into one task|
 |Fr5x3 |See code snippet Fr5x1|Code Improvement|Critical|-|Adapt phrasing of the task so that it includes Fr5x2|
 
+## Table 1.1: First Test Run - Tasks and Answers
+
+| Task | Question | Answers | Correct Answer |
+
+
 ## Table 2: Second Test Run
 
 | Code | Task Description | Code Snippet | Tested Facet | Explanation |
