@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21490313.svg)](https://doi.org/10.5281/zenodo.21490313)
+
 This repository is designed as starting point for a community effort to develop a test instrument to measure code comprehension. It currently contains all tasks and according data that we collected for our submission to the vision track of ESEM 2026:
 
-A Facet-Based Perspective on Code Comprehension Task Design for  Empirical Research
+A Facet-Based Perspective on Code Comprehension Task Design for Empirical Research
 
 In this paper, we provide a unifying umbrella to describe code comprehension based on a literature review, comprising three facets: Analytical thinking, abstract thinking, critical thinking. Each of these facets is linked with studies in the literature that evaluate code comprehension, for example, to measure the impact of visualizations or anti patterns in code. By making these facets explicit, we increase the awareness of the community that it is a multi-faceted construct, and that researchers need to state which of the facet(s) they are targeting.
 
