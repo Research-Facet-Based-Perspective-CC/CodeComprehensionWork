@@ -18,6 +18,12 @@
 ## Table 1.1: First Test Run - Tasks and Answers
 
 | Task | Question | Answers | Correct Answer |
+|------|----------|---------|----------------|
+|Fr1x1 | "What does the given code do?" | a) It doubles the even-indexed elements of the list and decreases the odd-indexed elements by 1, then returns the sum of the modified list. <br> b) It creates a new list where even-indexed elements are doubled and odd-indexed elements are decreased by one, then returns the modified list. <br> c) It modifies the input list by multiplying elements at even indices by 2 and subtracting 1 from odd-indexed elements, then calculates and returns the sum of that list. | a) It doubles the even-indexed elements of the list and decreases the odd-indexed elements by 1, then returns the sum of the modified list. |
+|Fr1x2 | "How does the code behave if the input list data_input is empty?"| a) The code returns an error message. <br> b) The code returns 0. <br >c) The code returns None.|b) The code returns 0.|
+|Fr1x3 | "Please select the flowchart that reflects the code." |-|-|
+|Fr2x1 | "What is the output of the following code?" | a) BCACBCBCAC <br> b) BCBCACBCAC <br> c) CACBCACBC | a) BCACBCBCAC |
+|Fr2x2 | "Please assign the following inputs to their corresponding outputs." | Inputs &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Outputs <br> A = [4, 7, 2, 5, 8, 4] &nbsp; &nbsp; 1 = "BCACACBC" <br> B = [6, 3, 5, 8, 2, 4] &nbsp; &nbsp; 2 = "ACACBCBC" <br> C = [7, 9, 1, 3, 8, 6] &nbsp; &nbsp; 3 = "BCACBCBC" <br> D = [3, 6, 2, 1, 7, 8] &nbsp; &nbsp; 4 = "ACBCBCBC" <br> | A = 3 <br> B = 4 <br> C = 2 <br> D = 1 |
 
 
 ## Table 2: Second Test Run
@@ -32,3 +38,8 @@
 |Q4x1 (former Fr3x1)|Method Naming|<img src="snippets/Q4.png" width= "300">|Abstraction|Participants must identify the overall purpose of the code and translate its behavior into a meaningful conceptual description. Instead of focusing only on individual lines, they must integrate the conditions and data processing into an understanding of the algorithm’s function and express it through an appropriate method name.|
 |Q4x2 (former FR4x1)|Code Snippet Comparison|<img src="snippets/Q4x2.png" width= "300">|Critical|Participants must evaluate each code snippet against a formal specification and judge whether it correctly implements the required behavior. They need to detect correctness (does it preserve non-negative values and replace only negatives), and distinguish subtle logical differences between similar implementations rather than just understanding the code flow.|
 |Q5x1 (former Fr5x3)|Code Improvement|<img src="snippets/Q5.png" width= "300">|Critical|Participants must evaluate the code beyond its output, focusing on correctness, efficiency, and readability. They need to identify logical errors (incorrect max calculation), unnecessary computations, and poor design choices, and then justify improvements such as simplifying the structure and removing redundant operations.|
+
+
+## Table 2.1: Second Test Run - Tasks and Answers
+
+| Task | Question | Answers | Correct Answer |
